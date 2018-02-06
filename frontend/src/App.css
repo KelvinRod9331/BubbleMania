@@ -1,3 +1,22 @@
+#game {
+  border: black solid 2px;
+  height: 600px;
+  width: 65%;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+  margin: 10px;
+}
+
+#store {
+  border: black solid 2px;
+  width: 35%;
+  height: 600px;
+  float: left;
+}
+
 .App {
   text-align: center;
 }

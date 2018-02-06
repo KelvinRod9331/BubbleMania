@@ -270,7 +270,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1 id="title">BUBBLE MANIA</h1>
-        <div>{animate()}</div>
+            <div id="game">{animate()}</div>
         <div id="store"></div>
       </div>
     );

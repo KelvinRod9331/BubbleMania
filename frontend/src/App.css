@@ -1,3 +1,96 @@
+@media  (min-width: 1230px){
+  html {
+    width: 100%;
+    position: relative;
+  }
+}
+/*Div style begin*/
+#banner {
+  border: black solid 2px;
+  height: 40px;
+  margin: 10px;
+}
+#game {
+  border: black solid 2px;
+  height: 600px;
+  width: 65%;
+  margin: 10px;
+  margin-left: 10px;
+  float: left;
+}
+
+#signIn {
+  border: black solid 2px;
+  width: 15%;
+  height: 20px;
+  margin: 8px;
+  float: right;
+}
+
+#store {
+  border: black solid 2px;
+  width: 30%;
+  height: 300px;
+  margin: 10px;
+  float: right;
+  
+}
+
+#topPlayer {
+  border: black solid 2px;
+  width: 30%;
+  height: 150px;
+  margin: 10px;
+  float: right;
+}
+
+#themeSelector {
+  border: black solid 2px;
+  width: 30%;
+  height: 102.5px;
+  margin: 10px;
+  float: right;
+}
+
+#life {
+  border: black solid 2px;
+  width: 30.65%;
+  height: 30px;
+  float: left;
+}
+
+#stat {
+  border: black solid 2px;
+  width: 37%;
+  height: 30px;
+  float: left;
+}
+
+#score {
+  border: black solid 2px;
+  width: 30.85%;
+  height: 30px;
+  float: left;
+}
+/*Div style end*/
+
+/* Text edits begin*/
+h1 {
+  margin: 2px;
+  width: 45%;
+  float: left;
+  margin-left: 25%;
+} 
+
+#sign {
+  margin: 2px;
+  height: 16px;
+}
+p {
+  margin: 6px;
+}
+/* Text edits end*/
+
 .App {
   text-align: center;
 }
